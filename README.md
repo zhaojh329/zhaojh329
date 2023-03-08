@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhaojh329.zhaojh329)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zhaojh329&count_private=true&show_icons=true&theme=dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaojh329&theme=dark&hide=html" />
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhaojh329&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaojh329&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <img align="left" src="/WeChat.jpg" width="200px" height="200px"/>
